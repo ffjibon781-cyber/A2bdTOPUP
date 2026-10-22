@@ -11,7 +11,7 @@ var telegram_channel_link = "https://t.me/aass1122oo";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "https://t.me/aass1122oo";
+var telegram_group_link = "https://t.me/+07G2CFP87DE0YmU9";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
